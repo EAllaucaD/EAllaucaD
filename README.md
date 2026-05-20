@@ -24,35 +24,7 @@ Actualmente continúo fortaleciendo conocimientos en Kubernetes, DevOps, cloud y
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-## 🔹 Backend & Programación
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,cs" />
-
---
-
-## 🔹 Cloud • Infraestructura • DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,gitlab&perline=7" />
-
---
-
-## 🔹 Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" />
-
---
-
-## 🔹 Frontend
-
-<img src="https://skillicons.dev/icons?i=vue&perline=1" />
-
-</div>
-
---
+# 🛠️ Tecnologías y Herramientas <div align="center"> <img src="https://skillicons.dev/icons?i=js,nodejs,python,cs,docker,kubernetes,linux,aws,git,github,gitlab,postgres,mysql,vue" /> </div> ---
 
 # 📊 Áreas de Interés
 
