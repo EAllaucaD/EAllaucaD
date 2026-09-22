@@ -16,11 +16,13 @@
 
 # 🚀 Sobre mí
 
-Ingeniero en Sistemas de Información con interés en infraestructura tecnológica, cloud computing, microservicios, backend y analítica de datos.
+Soy Ingeniero en Sistemas de Información, con interés en el desarrollo de software, infraestructura tecnológica, cloud computing y analítica de datos.
 
-Me gusta trabajar con tecnologías orientadas a automatización, despliegue de aplicaciones, entornos Linux y arquitecturas modernas.
+Me gusta crear proyectos y experimentar con diferentes tecnologías para entender cómo funcionan y cómo pueden integrarse para resolver problemas reales.
 
-Actualmente continúo fortaleciendo conocimientos en Kubernetes, DevOps, cloud y análisis de datos.
+También disfruto explorar y utilizar herramientas de Inteligencia Artificial durante el desarrollo, tanto para aprender como para mejorar procesos, probar ideas y construir nuevas soluciones.
+
+Tengo especial interés en Cloud, DevOps, Linux, desarrollo de aplicaciones, microservicios, datos e Inteligencia Artificial.
 
 ---
 
@@ -43,12 +45,14 @@ Actualmente continúo fortaleciendo conocimientos en Kubernetes, DevOps, cloud y
 # 📚 Conocimientos
 
 
-- Kubernetes y orquestación de contenedores
-- Arquitecturas cloud-native
-- Automatización y CI/CD
-- Infraestructura y despliegue de aplicaciones
-- Analítica y visualización de datos
-- Backend escalable y microservicios
+💻 Desarrollo de APIs, aplicaciones y servicios.
+☁️ Trabajo con cloud e infraestructura.
+🐳 Uso de Docker y contenedores para desarrollar y desplegar aplicaciones.
+⚙️ Automatización y prácticas de DevOps y CI/CD.
+🐧 Administración y trabajo en entornos Linux.
+📊 Análisis, transformación y visualización de datos.
+🤖 Integración y experimentación con herramientas de Inteligencia Artificial.
+🧩 Desarrollo de proyectos con microservicios y arquitecturas modernas.
 
 ---
 
