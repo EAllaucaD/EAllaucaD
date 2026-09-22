@@ -49,14 +49,21 @@ Tengo especial interés en Cloud, DevOps, Linux, desarrollo de aplicaciones, mic
 # 📚 Conocimientos
 
 
-💻 Desarrollo de APIs, aplicaciones y servicios.
-☁️ Trabajo con cloud e infraestructura.
-🐳 Uso de Docker y contenedores para desarrollar y desplegar aplicaciones.
-⚙️ Automatización y prácticas de DevOps y CI/CD.
-🐧 Administración y trabajo en entornos Linux.
-📊 Análisis, transformación y visualización de datos.
-🤖 Integración y experimentación con herramientas de Inteligencia Artificial.
-🧩 Desarrollo de proyectos con microservicios y arquitecturas modernas.
+-- 💻 Desarrollo de APIs, aplicaciones y servicios.
+
+--☁️ Trabajo con cloud e infraestructura.
+
+--🐳 Uso de Docker y contenedores para desarrollar y desplegar aplicaciones.
+
+--⚙️ Automatización y prácticas de DevOps y CI/CD.
+
+--🐧 Administración y trabajo en entornos Linux.
+
+--📊 Análisis, transformación y visualización de datos.
+
+--🤖 Integración y experimentación con herramientas de Inteligencia Artificial.
+
+--🧩 Desarrollo de proyectos con microservicios y arquitecturas modernas.
 
 ---
 
